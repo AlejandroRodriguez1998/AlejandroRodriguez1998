@@ -48,17 +48,20 @@ Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria
 ### Sistemas operativos
 
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ### Sobre mí 
 
+Si quieres saber cosas sobre mí, puedes ir a mi [portafolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo.
+
+### Contacto
+
 - Mi correo electronico de la universidad: alejandro.paniagua1@alu.uclm.es
 - Mi correo electronico personal: alexcr31@gmail.com
-- Para saber mas sobre mí puedes ir a mi [portafolio](https://alejandrorodriguez1998.github.io).
 - Mi perfil de [LinKedIn](https://www.linkedin.com/in/alejandro-paniagua-rodriguez-58a42b169/).
 
 ✨ ¡Gracias por visitar mi perfil! ✨
