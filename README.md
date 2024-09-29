@@ -58,10 +58,8 @@ Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria
 
 - Mi correo electronico de la universidad: alejandro.paniagua1@alu.uclm.es
 - Mi correo electronico personal: alexcr31@gmail.com
-- Para saber mas sobre mí puedes ir a mi [portafolio](https://alejandrorodriguez1998.github.io)
-- Mi perfil de [linkendin](https://www.linkedin.com/in/alejandro-paniagua-rodriguez-58a42b169/).
- 
- 
+- Para saber mas sobre mí puedes ir a mi [portafolio](https://alejandrorodriguez1998.github.io).
+- Mi perfil de [LinKendIn](https://www.linkedin.com/in/alejandro-paniagua-rodriguez-58a42b169/).
 
 ✨ ¡Gracias por visitar mi perfil! ✨
  
