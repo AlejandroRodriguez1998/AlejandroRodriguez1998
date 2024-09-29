@@ -1,3 +1,6 @@
+
+[![logo](https://github.com/AlejandroRodriguez1998/AlejandroRodriguez1998/blob/main/logo.png)](https://github.com/AlejandroRodriguez1998/AlejandroRodriguez1998/blob/main/logo.png)
+
 ## Hi there 👋
 
 <!--
