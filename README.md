@@ -76,6 +76,5 @@ Si quieres saber cosas sobre mí, puedes ir a mi [portafolio](https://alejandror
 
 ✨ ¡Gracias por visitar mi perfil! ✨
 
-[![](https://visitcount.itsvg.in/api?id=Alejandrorodriguez1998&label=Visitantes&color=12&icon=0&pretty=true)](#)
-
+[![](https://visitcount.itsvg.in/api?id=AlejandroRodriguez1998&label=Vistas%20del%20perfil&color=12&icon=6&pretty=true)](#)
 
