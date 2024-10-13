@@ -71,7 +71,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="alejandrorodriguez1998"/></p>
 
-#### ✨ ¡Gracias por visitar mi perfil! ✨
+<h3 align="center"> ✨ ¡Gracias por visitar mi perfil! ✨ </h3>
 
 [![](https://visitcount.itsvg.in/api?id=AlejandroRodriguez1998&label=Vistas%20del%20perfil&color=12&icon=6&pretty=true)](#)
 
