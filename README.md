@@ -1,7 +1,7 @@
 
 [![logo](https://github.com/AlejandroRodriguez1998/AlejandroRodriguez1998/blob/main/logo.png)](https://alejandrorodriguez1998.github.io)
 
-## Bienvenid@! 👋
+<h2 align="center"> ¡Bienvenid@! 👋 </h2>
 
 Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria informatica en la ESI (Escuela Superior de Informatica)
 
