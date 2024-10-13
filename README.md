@@ -5,11 +5,11 @@
 
 ⚡ Soy tecnico superiror en desarrollo de aplicaciones web. <br>
 👨‍🎓 Estudiante en ingeniería informática en la ESI (Escuela Superior de Informatica). <br>
-🌐 Mi [portfolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo. <br>
+🌐 Mi [portfolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo y más información. <br>
 ☎️ Contacto: <br>
-&nbsp;&nbsp;&nbsp;📧 Correo UCLM: alejandro.paniagua1@alu.uclm.es <br>
-&nbsp;&nbsp;&nbsp;📧 Correo personal: alexcr31@gmail.com <br>
-&nbsp;&nbsp;&nbsp;📌 Mi perfil de [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez).
+&nbsp;&nbsp;&nbsp;&nbsp;📧 Correo universidad: alejandro.paniagua1@alu.uclm.es <br>
+&nbsp;&nbsp;&nbsp;&nbsp;📧 Correo personal: alexcr31@gmail.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;📌 Mi perfil de [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez).
 
 ### 📚 Lenguajes de programación
 
