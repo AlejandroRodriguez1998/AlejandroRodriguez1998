@@ -56,13 +56,13 @@ Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria
 
 ### Estadisticas de GitHub :
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="alejandrorodriguez1998"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="alejandrorodriguez1998"/></p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroRodriguez1998&theme=transparent&hide_border=true&border_radius=4.4&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
 </p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="alejandrorodriguez1998"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="alejandrorodriguez1998"/></p>
 
 ### Sobre mí 
 
@@ -72,7 +72,7 @@ Si quieres saber cosas sobre mí, puedes ir a mi [portafolio](https://alejandror
 
 - Mi correo electronico de la universidad: alejandro.paniagua1@alu.uclm.es
 - Mi correo electronico personal: alexcr31@gmail.com
-- Mi perfil de [LinKedIn](https://www.linkedin.com/in/alejandro-paniagua-rodriguez-58a42b169/).
+- Mi perfil de [LinkedIn](https://www.linkedin.com/in/alejandro-paniagua-rodriguez-58a42b169/).
 
 ✨ ¡Gracias por visitar mi perfil! ✨
 
