@@ -3,7 +3,13 @@
 
 <h2 align="center"> ¡Bienvenid@! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hand with Fingers Splayed" width="25" height="25" /> </h2>
 
-Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria informatica en la ESI (Escuela Superior de Informatica)
+⚡ Soy tecnico superiror en desarrollo de aplicaciones web. <br>
+👨‍🎓 Estudiante en ingeniería informática en la ESI (Escuela Superior de Informatica). <br>
+🌐 Mi [portfolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo. <br>
+☎️ Contacto: <br>
+&nbsp;&nbsp;&nbsp;📧 Correo UCLM: alejandro.paniagua1@alu.uclm.es <br>
+&nbsp;&nbsp;&nbsp;📧 Correo personal: alexcr31@gmail.com <br>
+&nbsp;&nbsp;&nbsp;📌 Mi perfil de [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez).
 
 ### 📚 Lenguajes de programación
 
@@ -63,16 +69,6 @@ Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="alejandrorodriguez1998"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="alejandrorodriguez1998"/></p>
-
-### 💫 Sobre mí 
-
-Si quieres saber cosas sobre mí, puedes ir a mi [portafolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo.
-
-### ☎️ Contacto
-
-- Mi correo electronico de la universidad: alejandro.paniagua1@alu.uclm.es
-- Mi correo electronico personal: alexcr31@gmail.com
-- Mi perfil de [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez).
 
 ✨ ¡Gracias por visitar mi perfil! ✨
 
