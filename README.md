@@ -54,6 +54,14 @@ Soy tecnico superior en desarrollo de aplicaciones web y estudiante de ingeneria
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
+### Estadisticas de GitHub :
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="alejandrorodriguez1998"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="alejandrorodriguez1998"/></p>
+<div aling="center "
+<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroRodriguez1998&theme=transparent&hide_border=true&border_radius=4.4&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/></p>
+
 ### Sobre mí 
 
 Si quieres saber cosas sobre mí, puedes ir a mi [portafolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo.
@@ -65,4 +73,6 @@ Si quieres saber cosas sobre mí, puedes ir a mi [portafolio](https://alejandror
 - Mi perfil de [LinKedIn](https://www.linkedin.com/in/alejandro-paniagua-rodriguez-58a42b169/).
 
 ✨ ¡Gracias por visitar mi perfil! ✨
- 
+
+[![](https://visitcount.itsvg.in/api?id=AlejandroRodriguez1998&icon=0&color=0)](https://visitcount.itsvg.in)
+
