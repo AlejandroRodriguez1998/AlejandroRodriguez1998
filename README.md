@@ -63,9 +63,9 @@
 
 ### 📊 Estadisticas de GitHub
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroRodriguez1998&theme=transparent&hide_border=true&border_radius=4.4&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
-</p>
+</p>-->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez1998&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="alejandrorodriguez1998"/></p>
 
