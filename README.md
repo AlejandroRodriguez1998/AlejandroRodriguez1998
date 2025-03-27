@@ -10,7 +10,7 @@
 **☎️ Contacto:** <br>
 &nbsp;&nbsp;&nbsp;📧 alejandro.paniagua1@alu.uclm.es <br>
 &nbsp;&nbsp;&nbsp;📧 alexcr31@gmail.com <br>
-&nbsp;&nbsp;&nbsp;📌 [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez).
+&nbsp;&nbsp;&nbsp;📌 [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez)
 
 ### 📚 Lenguajes de programación
 
