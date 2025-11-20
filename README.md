@@ -9,7 +9,7 @@
 🌐 Mi [portfolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo y más información. <br>
 
 **☎️ Contacto:** <br>
-&nbsp;&nbsp;&nbsp;📌 [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez)
+&nbsp;&nbsp;&nbsp;📌 [LinkedIn](https://www.linkedin.com/in/alejandropaniaguarodriguez) <br>
 &nbsp;&nbsp;&nbsp;📧 alexcr31@gmail.com <br>
 
 ### 📚 Lenguajes de programación
