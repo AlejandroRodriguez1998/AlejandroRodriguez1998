@@ -8,12 +8,8 @@
 👨‍🎓 Estudiante en ingeniería informática en la ESI (Escuela Superior de Informatica). <br>
 🌐 Mi [portfolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo y más información. <br>
 
-<p align="center">
-  <strong>📬 Contacto:</strong><br>
-  <a href="https://www.linkedin.com/in/alejandropaniaguarodriguez">💼 LinkedIn</a>  
-  &nbsp;|&nbsp;
-  <a href="mailto:alexcr31@gmail.com">📧 Email</a>
-</p>
+<strong>📬 Contacto:</strong>
+<a href="https://www.linkedin.com/in/alejandropaniaguarodriguez">💼 LinkedIn</a>&nbsp;|&nbsp;<a href="mailto:alexcr31@gmail.com">📧 Email</a>
 
 ### 📚 Lenguajes de programación
 
