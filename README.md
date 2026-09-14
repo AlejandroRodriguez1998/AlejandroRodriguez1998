@@ -3,10 +3,11 @@
 
 <h2 align="center"> ¡Bienvenid@! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hand with Fingers Splayed" width="25" height="25" /> </h2>
 
-⚡ Soy tecnico superior en desarrollo de aplicaciones web. <br>
-💼 Trabajador en la empresa [Inwire](https://inwire.es/) como desarrollador full stack. <br>
-👨‍🎓 Estudiante en ingeniería informática en la ESI (Escuela Superior de Informatica). <br>
-🌐 Mi [portfolio](https://alejandrorodriguez1998.github.io) donde encontrarás todo lo relacionado conmigo y más información. <br>
+🎓 Graduado en Ingeniería Informática por la UCLM, especializado en Tecnologías de la Información. <br>
+🚀 Desarrollo web, IoT, Edge Computing y análisis de datos. <br>
+⚡ Técnico Superior en Desarrollo de Aplicaciones Web. <br>
+💼 Desarrollador Full-Stack en [Inwire](https://inwire.es/). <br>
+🌐 Más sobre mí en mi [portfolio](https://alejandrorodriguez1998.github.io/). <br>
 
 ### 📬 Contacto
 <a href="https://www.linkedin.com/in/alejandropaniaguarodriguez">
